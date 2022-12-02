@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Pedro+Melero;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Pedro+Melero;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=phmelero&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=20B2AA&text_color=&bg_color=0d1117" alt="Pedro Melero github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmelero&layout=compact&hide_border=true&title_color=20B2AA&text_color=20B2AA&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=phmelero&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=&bg_color=0d1117" alt="Pedro Melero github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmelero&layout=compact&hide_border=true&title_color=DC143C&text_color=&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=phmelero&bg_color=0d1117&color=20B2AA&line=87CEFA&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=phmelero&bg_color=0d1117&color=DC143C&line=8B0000&point=A52A2A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -19,5 +19,5 @@
  </div>
  
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
   
